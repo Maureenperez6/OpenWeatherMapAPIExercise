@@ -1,0 +1,16 @@
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\bin\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.exe
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\bin\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.deps.json
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\bin\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.runtimeconfig.json
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\bin\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.runtimeconfig.dev.json
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\bin\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.dll
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\bin\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.pdb
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.csproj.AssemblyReference.cache
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.AssemblyInfoInputs.cache
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.AssemblyInfo.cs
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.csproj.CoreCompileInputs.cache
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.csproj.CopyComplete
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.dll
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.pdb
+C:\Users\maure\Desktop\Repos\OpenWeatherMapAPIExercise\OpenWeatherMapAPIExercise\obj\Debug\netcoreapp3.1\OpenWeatherMapAPIExercise.genruntimeconfig.cache

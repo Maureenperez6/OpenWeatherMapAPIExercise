@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5362bb24-4423-495f-86c7-29f968277a53": {
+      "ProjectGuid": "5362bb24-4423-495f-86c7-29f968277a53",
+      "DisplayName": "OpenWeatherMapAPIExercise",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
